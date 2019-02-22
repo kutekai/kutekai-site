@@ -1,8 +1,9 @@
-baseURL = "/"
-languageCode = "en-us"
-title = "Hugo Hero Theme"
+baseURL = "http://kutekai.com"
+languageCode = "en"
+title = "Kutekai"
 themesDir = "themes"
 theme = "hugo-hero-theme"
+publishDir = "kutekai.github.io"
 
 [params]
   google_analytics_id=""
