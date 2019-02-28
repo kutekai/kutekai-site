@@ -1,9 +1,7 @@
 ---
-title: 'Our Difference'
+title: 'Committed to the security of your cloud resources while optimising cost'
 weight: 2
 background: ''
-button: 'About Us'
-buttonLink: 'about'
+button: 'Contact'
+buttonLink: 'contact'
 ---
-
-Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus oporteat an mei. ipsum dolor sit amet, et essent mediocritatem quo,

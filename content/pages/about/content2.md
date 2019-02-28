@@ -1,6 +1,6 @@
 ---
 title: 'About Content 2'
-date: 2018-12-06T09:29:16+10:00
+date: 2019-02-22T21:04:00+00:00
 background: 'https://source.unsplash.com/_v-EHHKKW3w/1600x700'
 button: ''
 ---
