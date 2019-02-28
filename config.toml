@@ -6,7 +6,7 @@ theme = "hugo-hero-theme"
 publishDir = "kutekai.github.io"
 
 [params]
-  google_analytics_id=""
+  google_analytics_id="UA-127057347-2"
 
   [params.homepage_meta_tags]
     meta_description = "Kutekai is an AWS Cloud Consultancy providing Solution Design & implementation, Infrastructure Automation, Proserve and Management"
